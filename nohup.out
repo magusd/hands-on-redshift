@@ -1,0 +1,14 @@
+psql:data_load.sql:1: INFO:  Load into table 'call_center' completed, 6 record(s) loaded successfully.
+COPY
+psql:data_load.sql:2: INFO:  Load into table 'catalog_sales' completed, 215993568 record(s) loaded successfully.
+COPY
+psql:data_load.sql:3: INFO:  Load into table 'customer' completed, 850000 record(s) loaded successfully.
+COPY
+psql:data_load.sql:4: INFO:  Load into table 'date_dim' completed, 73049 record(s) loaded successfully.
+COPY
+psql:data_load.sql:5: INFO:  Load into table 'household_demographics' completed, 7200 record(s) loaded successfully.
+COPY
+psql:data_load.sql:6: INFO:  Load into table 'item' completed, 32000 record(s) loaded successfully.
+COPY
+psql:data_load.sql:7: INFO:  Load into table 'store' completed, 112 record(s) loaded successfully.
+COPY
