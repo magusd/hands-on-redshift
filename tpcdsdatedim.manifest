@@ -1,0 +1,5 @@
+{
+  "entries": [
+    {"url":"s3://lobs-redshift/date_dim_1_8.dat", "mandatory":true}
+  ]
+}
